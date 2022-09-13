@@ -22,7 +22,6 @@ public class WebSocketClient implements WebSocket.Listener {
 
     @Override
     public void onError(WebSocket webSocket, Throwable error) {
-        //..
         System.out.println("Bad day! ".concat(webSocket.toString()));
     }
 

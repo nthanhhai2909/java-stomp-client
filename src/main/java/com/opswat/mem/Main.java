@@ -6,6 +6,7 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.WebSocket;
 import java.nio.ByteBuffer;
+import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 import java.util.concurrent.CompletionStage;
 
@@ -33,7 +34,7 @@ public class Main {
                     JsonObject jsonObject = new JsonObject();
                     jsonObject.addProperty("action", "SUBSCRIBE");
                     jsonObject.addProperty("payload", destination);
-                    ws.sendText(jsonObject.toString(), true);
+                    ws.sendBinary(ByteBuffer.wrap(jsonObject.toString().getBytes(StandardCharsets.UTF_8)), true);
                     break;
                 }
                 case "2": {
