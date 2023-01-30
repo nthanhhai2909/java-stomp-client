@@ -1,31 +1,32 @@
 package com.opswat.mem;
 
 import com.opswat.mem.message.Greeting;
-import com.opswat.mem.message.Message;
-import lombok.extern.log4j.Log4j2;
-import org.springframework.messaging.simp.stomp.*;
+import org.springframework.messaging.simp.stomp.StompCommand;
+import org.springframework.messaging.simp.stomp.StompHeaders;
+import org.springframework.messaging.simp.stomp.StompSession;
+import org.springframework.messaging.simp.stomp.StompSessionHandlerAdapter;
 
 import java.lang.reflect.Type;
 
-@Log4j2
 public class MyStompSessionHandler extends StompSessionHandlerAdapter {
 
     @Override
     public void afterConnected(StompSession session, StompHeaders connectedHeaders) {
-        log.warn("New session established : " + session.getSessionId());
+        System.out.println("Connected to server");
         session.send("/app/hello", "Hello server " + session.getSessionId());
-        session.subscribe("/user/queue/reply", this);
-        session.subscribe("/topic/news", new ServerNoficationHandler());
+//        session.subscribe("/user/queue/reply", this);
+//        session.subscribe("/topic/news", new ServerNoficationHandler());
     }
 
     @Override
     public void handleException(StompSession session, StompCommand command, StompHeaders headers, byte[] payload, Throwable exception) {
-        log.error("Got an exception" + exception);
+        System.out.println("hbihi");
+        exception.printStackTrace();
     }
 
     @Override
     public Type getPayloadType(StompHeaders headers) {
-        return Greeting.class;
+        return String.class;
     }
 
     @Override
@@ -34,6 +35,6 @@ public class MyStompSessionHandler extends StompSessionHandlerAdapter {
             return;
         }
         String mess = "Message from server: " + ((Greeting) payload).getContent();
-        log.warn(mess);
+        System.out.println(mess);
     }
 }
