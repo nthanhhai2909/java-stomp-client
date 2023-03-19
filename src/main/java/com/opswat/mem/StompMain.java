@@ -15,7 +15,7 @@ public class StompMain {
         WebSocketClient client = new StandardWebSocketClient();
         WebSocketStompClient stompClient = new WebSocketStompClient(client);
         stompClient.setMessageConverter(new MappingJackson2MessageConverter());
-//        stompClient.setMessageConverter(new StringMessageConverter());
+        stompClient.setMessageConverter(new StringMessageConverter());
         stompClient.connect("ws://localhost:8999/ws", new MyStompSessionHandler());
         new Scanner(System.in).nextLine(); // Don't close immediately.
     }

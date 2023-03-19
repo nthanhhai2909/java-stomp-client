@@ -14,8 +14,16 @@ public class MyStompSessionHandler extends StompSessionHandlerAdapter {
     public void afterConnected(StompSession session, StompHeaders connectedHeaders) {
         System.out.println("Connected to server");
         session.send("/app/hello", "Hello server " + session.getSessionId());
-//        session.subscribe("/user/queue/reply", this);
-//        session.subscribe("/topic/news", new ServerNoficationHandler());
+        StompSession.Subscription subscription = session.subscribe("/user/queue/1", this);
+        subscription.unsubscribe();
+
+        StompSession.Subscription subscriptionNoACK = session.subscribe("/user/queue/2", this);
+
+        StompHeaders stompHeaders = new StompHeaders();
+        stompHeaders.set(StompHeaders.DESTINATION, "/user/queue/2");
+        stompHeaders.setAck("client");
+        StompSession.Subscription subscriptionClientACK =  session.subscribe(stompHeaders, this);
+
     }
 
     @Override
@@ -34,7 +42,7 @@ public class MyStompSessionHandler extends StompSessionHandlerAdapter {
         if (payload == null) {
             return;
         }
-        String mess = "Message from server: " + ((Greeting) payload).getContent();
+        String mess = "Message from server: " + payload;
         System.out.println(mess);
     }
 }
