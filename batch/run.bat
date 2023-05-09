@@ -1,1 +1,0 @@
-java -jar client.jar 34.214.76.213 8081
