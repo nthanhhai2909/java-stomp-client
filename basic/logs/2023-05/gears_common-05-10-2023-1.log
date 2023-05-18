@@ -1,0 +1,32 @@
+10:30 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:30 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:35 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:35 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:41 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:41 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:42 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:43 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:43 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:44 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:44 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:44 2023-May-10 ERROR StompSessionHandler:28 - org.springframework.messaging.MessageDeliveryException: nested exception is java.lang.NullPointerException, failedMessage=GenericMessage [payload=byte[0], headers={simpMessageType=SUBSCRIBE, stompCommand=SUBSCRIBE, nativeHeaders={destination=[/user/queue/1], id=[0]}, simpSubscriptionId=0, simpSessionId=998ac7b0-5efa-f711-0972-5d1331020599, simpDestination=/user/queue/1}]
+10:44 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:45 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:47 2023-May-10 ERROR StompSessionHandler:28 - org.springframework.messaging.MessageDeliveryException: nested exception is java.nio.channels.ClosedChannelException, failedMessage=GenericMessage [payload=byte[0], headers={simpMessageType=SUBSCRIBE, stompCommand=SUBSCRIBE, nativeHeaders={destination=[/user/queue/1], id=[0]}, simpSubscriptionId=0, simpSessionId=7f064d4a-73cf-7d9e-3ba5-840744e5542d, simpDestination=/user/queue/1}]
+10:47 2023-May-10 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+10:50 2023-May-10 ERROR CommandStompSessionHandler:45 - Message from server: Welcome to VN
+

@@ -1,0 +1,396 @@
+11:18 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+11:20 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+11:20 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 1
+
+11:20 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 1
+
+11:20 2023-May-18 E11:20 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 2
+
+11:20 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 3
+
+11:20 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 4
+
+11:20 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 5
+
+- Message from server: Hello: 4
+
+11:20 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 4
+
+11:20 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 5
+
+11:20 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 5
+
+11:23 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+11:23 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Welcome to VN
+
+11:23 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 1
+
+11:23 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 1
+
+11:23 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 2
+
+11:23 2023-May-18 ERROR St11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 3
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 4
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 5
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 6
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 7
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 8
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 9
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 10
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 11
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 12
+
+11:23 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 13
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 14
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 15
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 16
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 17
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 18
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 19
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 20
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 21
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 22
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 23
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 24
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 25
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 26
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 27
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 28
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 29
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 30
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 31
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 32
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 33
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 34
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 35
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 36
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 37
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 38
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 39
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 40
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 41
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 42
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 43
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 44
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 45
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 46
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 47
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 48
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 49
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 50
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 51
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 52
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 53
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 54
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 55
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 56
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 57
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 58
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 59
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 60
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 61
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 62
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 63
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 64
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 65
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 66
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 67
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 68
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 69
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 70
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 71
+
+11:24 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 72
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 73
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 74
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 75
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 76
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 77
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 78
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 79
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 80
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 81
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 82
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 83
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 84
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 85
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 86
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 87
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 88
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 89
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 90
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 91
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 92
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 93
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 94
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 95
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 96
+
+11:25 2023-May-18 ERROR CommandStompSessionHandler:63 - Message from server: Hello: 97
+
+:44 - Message from server: Hello: 54
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 54
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 55
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 55
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 56
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 56
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 57
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 57
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 58
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 58
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 59
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 59
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 60
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 60
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 61
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 61
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 62
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 62
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 63
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 63
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 64
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 64
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 65
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 65
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 66
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 66
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 67
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 67
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 68
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 68
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 69
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 69
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 70
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 70
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 71
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 71
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 72
+
+11:24 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 72
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 73
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 73
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 74
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 74
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 75
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 75
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 76
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 76
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 77
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 77
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 78
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 78
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 79
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 79
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 80
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 80
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 81
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 81
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 82
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 82
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 83
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 83
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 84
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 84
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 85
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 85
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 86
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 86
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 87
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 87
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 88
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 88
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 89
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 89
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 90
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 90
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 91
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 91
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 92
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 92
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 93
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 93
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 94
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 94
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 95
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 95
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 96
+
+11:25 2023-May-18 ERROR StompSessionHandler:44 - Message from server: Hello: 96
+
